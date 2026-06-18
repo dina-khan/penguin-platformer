@@ -3,7 +3,9 @@
 A 2D side-scrolling penguin platformer built with p5.js for the 
 University of London CM1005 Introduction to Programming module.
 
-**[Play in Browser](https://dina-khan.github.io/penguin-platformer/)**
+🎬 **[Video Demo](https://drive.google.com/file/d/1dV88suW3kBHULqN338zCgJCNyPDLfTf4/view?usp=sharing)** 
+
+🎮 **[Play in Browser](https://dina-khan.github.io/penguin-platformer/)**
 
 ## How to Play
 - **A / D** - move left / right
